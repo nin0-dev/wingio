@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Wing, I'm a 20 year old developer that works on Android apps, I'm a big fan of Kotlin and a hater of Java.
+My name is Wing, I'm a 20 year old developer that works on Android apps, I'm a big fan of Java and a hater of Kotlin.
 
 <div align="center">
 
